@@ -1,0 +1,61 @@
+body{
+  background-image: url('https://ecs7.tokopedia.net/img/cache/700/product-1/2018/11/18/12928403/12928403_dc978d34-8554-4dc4-b741-16414b7ee2be_1000_658.png');
+  background-repeat: no-repeat;
+background-size: cover;
+
+}
+ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+      li {
+        float: left;
+      }
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      li a:hover {
+        background-color: #111;
+      }
+}
+
+h1{
+  text-align: center;
+  text-decoration-color: deeppink;
+}
+h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.shoes{
+background-color: deeppink;
+font-size: large;
+}
+
+.wears{
+  background-color: deeppink;
+  font-style: italic;
+}
+.ask{
+  background-color: deeppink;
+  font-size: larger;
+  text-align: center;
+
+}
+.home{
+  background-color: deeppink;
+  text-align: center;
+  font-size: large;
+  font-family: sans-serif;
+}
+@media all and (max-width:500px;){
+
+}
